@@ -4,10 +4,10 @@
 
 # Site
 title: 時の光
-subtitle:
-description:
+subtitle: 时の流れに身をまかせ
+description: 一个关于技术和杂学的车祸现场
 keywords:
-author: 山下光太郎
+author: Terminal Tracer
 language: zh-Hans
 timezone:
 
@@ -80,3 +80,22 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:BrightWhisper/BrightWhisper.github.io.git
+# JsonContent
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
