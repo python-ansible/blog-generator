@@ -80,6 +80,7 @@ theme: yilia
 deploy:
   type: git
   repo: git@github.com:BrightWhisper/BrightWhisper.github.io.git
+  branch: master
 # JsonContent
 jsonContent:
   meta: false
