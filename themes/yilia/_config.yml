@@ -71,7 +71,7 @@ favicon: /favicon.png
 avatar: /assets/logo2.jpg
 
 #是否开启分享
-share_jia: true
+share_jia: false
 
 #评论：1、多说；2、网易云跟帖；3、畅言；4、Disqus；5、Gitment
 #不需要使用某项，直接设置值为false，或注释掉
@@ -127,4 +127,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 一个励志成为斜杠青年的中二病患者<br>业余键盘侠<br>专业搞事侠<br>兼职前端
+aboutme: "斜杠青年<br>中二病患者<br>业余键盘侠<br>专业搞事侠<br>兼职前端"
