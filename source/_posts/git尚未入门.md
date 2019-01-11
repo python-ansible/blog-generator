@@ -7,7 +7,7 @@ tags: '版本控制'
 ## git init
 git init命令用于在当前目录生成一个新的代码库，执行完之后我们会发现当前目录多出了一个.git目录，用于跟踪当前目录文件的修改。
 ![git init命令图片示例](/assets/gitInit.png)
-
+<!-- more -->
 ## git add
 git add命令用于添加指定的文件或目录到缓存区，便于之后使用git commit命令提交暂存区的文件到仓库区
 ![git add命令图片示例](/assets/gitAdd.png)
